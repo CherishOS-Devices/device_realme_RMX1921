@@ -91,7 +91,6 @@ on post-fs-data
 #endif
     mkdir /data/vendor/nnhal 0700 system system
     #ifdef VENDOR_EDIT
-    mkdir /data/vendor/dolby 0770 media media
     #endif /*VENDOR_EDIT*/
 
 # For cpusets initialize for Silver Only first and then Silver + Gold
