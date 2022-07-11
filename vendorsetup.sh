@@ -30,6 +30,3 @@ else
   echo "No Need: ${DIRAC} is already available there."
 fi
 
-# OOS DIALER
-rm -rf packages/apps/Dialer
-git clone --depth=1 https://github.com/Parixshit/android_packages_apps_Dialer.git packages/apps/Dialer
