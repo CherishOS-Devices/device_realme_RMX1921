@@ -24,7 +24,7 @@ The Realme XT (codenamed _"RMX1921"_) is a mid-range smartphone from Realme. It 
 ## Device Picture
 
 ![Realme XT](https://fdn.gsmarena.com/imgroot/news/19/09/realme-xt-official/-727w2/gsmarena_001.jpg "Realme XT")
-Compilation of Cherish OS:
+                                                                                                                                                                     Compilation of Cherish OS:
 ====================
 
 From root directory of Project, perform following commands in terminal
