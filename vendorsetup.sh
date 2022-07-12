@@ -1,7 +1,7 @@
 # KERNEL TREE
 KERNEL="kernel/realme/RMX1921"
 if [ ! -d "$KERNEL" ]; then
-git clone --depth=1 https://github.com/kaderbava/android_kernel_realme_RMX1921.git -b 11 kernel/realme/RMX1921
+git clone --depth=1 https://github.com/Anujbarwal/android_kernel_realme_sdm710.git -b snowcone kernel/realme/RMX1921
 else
   echo "No Need: ${KERNEL} is already available there."
 fi
